@@ -1,0 +1,14 @@
+D:\c#\lab_work_uni_csharp\lab_work\bin\Debug\lab_work.exe.config
+D:\c#\lab_work_uni_csharp\lab_work\bin\Debug\lab_work.exe
+D:\c#\lab_work_uni_csharp\lab_work\bin\Debug\lab_work.pdb
+D:\c#\lab_work_uni_csharp\lab_work\bin\Debug\Queues.dll
+D:\c#\lab_work_uni_csharp\lab_work\bin\Debug\Structures.dll
+D:\c#\lab_work_uni_csharp\lab_work\obj\Debug\lab_work.csproj.AssemblyReference.cache
+D:\c#\lab_work_uni_csharp\lab_work\obj\Debug\lab_work.csproj.SuggestedBindingRedirects.cache
+D:\c#\lab_work_uni_csharp\lab_work\obj\Debug\MVCFrame.FrmDetailed.resources
+D:\c#\lab_work_uni_csharp\lab_work\obj\Debug\MVCFrame.Properties.Resources.resources
+D:\c#\lab_work_uni_csharp\lab_work\obj\Debug\lab_work.csproj.GenerateResource.cache
+D:\c#\lab_work_uni_csharp\lab_work\obj\Debug\lab_work.csproj.CoreCompileInputs.cache
+D:\c#\lab_work_uni_csharp\lab_work\obj\Debug\lab_work.csproj.CopyComplete
+D:\c#\lab_work_uni_csharp\lab_work\obj\Debug\lab_work.exe
+D:\c#\lab_work_uni_csharp\lab_work\obj\Debug\lab_work.pdb
